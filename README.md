@@ -51,13 +51,3 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftaher65&layout=compact&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousseftaher65&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
