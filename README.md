@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Youssef Taher</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working in **Grand Technology compnay as Junior Flutter Developer**  
+- 🔭 I’m currently **Seeking for a new Flutter Developer Job**  
 - 🌱 I’m currently learning **Flutter, Dart** to enhance my skills  
 - 💡 I love **building smooth and innovative UI experiences with Flutter**  
 - 📫 Reach me at **yousseftaher65@gmail.com**  
